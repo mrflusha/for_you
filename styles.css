@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'BhuTuka Expanded One', cursive;
+	background-color: #1B2025;
+
+}
+
+#i{
+	color: #1B2025;
+
+}
+
+#i:hover{
+	color: pink;
+	text-align: center;
+}
+
+#will{
+	color: #1B2025;
+	text-align: center;
+}
+
+#will:hover{
+	color: blue;
+}
+#will2{
+	color:  #1B2025;
+	text-align: right;
+}
+
+#love{
+	color: #146C9C;
+	font-size: 2em;
+	text-align: center;
+}
+
+#love:hover{
+	color: #DA08B3;
+}
+
+div{
+	  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+}
